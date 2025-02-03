@@ -1,8 +1,12 @@
-# React + Vite
+# AI Chat Bot using Gemini API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This is an AI-powered chatbot built using the Gemini API from Gemini AI Studio. The chatbot is designed to generate custom prompts as provided by the user and track them efficiently. This project enables users to interact with AI, customize prompts, and generate meaningful responses for various applications.
 
-Currently, two official plugins are available:
+## Features
+- Uses Gemini AI Studio API for intelligent chatbot responses
+- Custom prompt creation and tracking
+- User-friendly interface
+- Easily extendable for further enhancements
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
